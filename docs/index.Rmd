@@ -69,5 +69,6 @@ plot(lm.PUD)
 plot(lm.PUDI)
 plot(lm.PUDM)
 ```
-After analyzing the diagnostic plots of each linear regression model created although all are similar in terms of results the lm.PUDI (linear regression model with interaction term) had the largest spread of data in the residuals vs fitted plot while maintaining an uncorrelated structure also when analyzing the residuals vs leverage plot there are more less high leverage data points that stray away from the normal line in lm.PUDI
+After analyzing the diagnostic plots of each linear regression model created although all are similar in terms of results the lm.PUDM (linear regression model with interaction term) had the largest spread of data in the residuals vs fitted plot while maintaining an uncorrelated structure also when analyzing the residuals vs leverage plot there are more less high leverage data points that stray away from the normal line in lm.PUDM. Lastly lm.PUDM has the highest Rsquared value amongst all models.
+
 
