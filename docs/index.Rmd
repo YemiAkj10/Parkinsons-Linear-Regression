@@ -1,5 +1,5 @@
 ---
-title: "StatApp_Assignment1"
+title: "Parkinson_Linear_Regression"
 author: "Yemi Adekoluejo"
 date: "2024-02-12"
 output: html_document
